@@ -8,7 +8,7 @@ Below script allows you to find most relevent answer to the question provided al
 4) Run main.py
 
 # Sample
-['Who was the first president of United states?\n', '\n', 'Abraham Lincoln\n', 'Karnataka\n', 'George Washington\n', 'Benjamin Franklin\n', ' ']
+['Who was the first president of United states?\n', '\n', 'Abraham Lincoln\n', 'Thomas Jefferson\n', 'George Washington\n', 'Benjamin Franklin\n', ' ']
 2
 1
 13
